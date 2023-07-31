@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">CHITest</string>
+
+    <string name="users">Users</string>
+    <string name="user_info">User information</string>
+    <string name="name_desc">Name:</string>
+    <string name="age_desc">Age:</string>
+    <string name="date_of_birth_desc">Date of birth:</string>
+    <string name="is_student_desc">Is student:</string>
+    <string name="set_date">Set date</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="add_new">Add new</string>
+    <string name="add_new_user">Add new user</string>
+    <string name="is_student">Is student</string>
+    <string name="user_name_age">%s, %d</string>
+    <string name="user_added_successfully">User added successfully</string>
 </resources>
